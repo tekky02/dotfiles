@@ -1,0 +1,32 @@
+
+[cursor]
+#blinking = "On"
+
+[font]
+size = 18.0
+
+[font.normal]
+family = "Hack Nerd Font"
+style = "Regular"
+
+[selection]
+save_to_clipboard = true
+
+[window]
+decorations = "buttonless"
+opacity = 1.0
+option_as_alt = "None"
+startup_mode = "Windowed"
+
+[window.dimensions]
+columns = 120
+lines = 40
+
+[window.position]
+x = 0
+y = 10
+
+[general]
+import = [
+  "~/.config/alacritty/alacritty-theme/themes/gruvbox_dark.toml"
+]
