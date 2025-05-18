@@ -3,10 +3,10 @@
 #blinking = "On"
 
 [font]
-size = 18.0
+size = 16.0
 
 [font.normal]
-family = "Hack Nerd Font"
+family = "Maple Mono NF CN"
 style = "Regular"
 
 [selection]
@@ -14,7 +14,7 @@ save_to_clipboard = true
 
 [window]
 decorations = "buttonless"
-opacity = 1.0
+opacity = 0.8
 option_as_alt = "None"
 startup_mode = "Windowed"
 
